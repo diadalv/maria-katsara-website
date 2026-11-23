@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maria-katsara-psychologos-rodos.login-rhodes.chatgpt.site/sitemap.xml
